@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="BumpMapping/BumpMapping.vcxproj" />
+  <Project Path="BumpMapping/BumpMapping.vcxproj" Id="40a975ef-901a-4077-838e-4afab0cf5295" />
 </Solution>

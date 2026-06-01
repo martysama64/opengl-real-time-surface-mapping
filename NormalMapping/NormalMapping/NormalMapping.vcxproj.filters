@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Downloads\курсовая\normmap\normmap\NormalMapping.cpp">
+    <ClCompile Include="NormalMapping.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

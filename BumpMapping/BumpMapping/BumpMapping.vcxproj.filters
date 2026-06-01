@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Downloads\курсовая\bumpmap1\bumpmap1\BumpMapping.cpp">
+    <ClCompile Include="BumpMapping.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
