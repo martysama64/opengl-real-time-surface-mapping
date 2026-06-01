@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NormalMapping/NormalMapping.vcxproj" Id="e1fa31ea-61fd-42b7-8b3f-0273de3d1a8d" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DisplacementMapping/DisplacementMapping.vcxproj" Id="26721b78-188f-474a-ae20-b22222332264" />
+</Solution>
